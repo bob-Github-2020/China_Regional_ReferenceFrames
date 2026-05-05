@@ -1,0 +1,3710 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Taiwan_CHN20_ENU_Vector</name>
+    <Style id="station_point">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <scale>0.8</scale>
+      </IconStyle>
+    </Style>
+    <Style id="velocity_vector">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>JSUI</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.423889,23.491985,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JSUI_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.423889,23.491985,0 116.97398106272493,27.14063364864865,0</coordinates>
+      </LineString>
+      <description>Station: JSUI
+East Velocity: -45.3 mm/yr
+North Velocity: 40.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>KNKO</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.505743,23.472219,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KNKO_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.505743,23.472219,0 116.71274159240555,27.92266945045045,0</coordinates>
+      </LineString>
+      <description>Station: KNKO
+East Velocity: -48.8 mm/yr
+North Velocity: 49.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>FIVE</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.781083,25.071051,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FIVE_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.781083,25.071051,0 122.26844193185757,25.116096045045047,0</coordinates>
+      </LineString>
+      <description>Station: FIVE
+East Velocity: 4.9 mm/yr
+North Velocity: 0.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SUC2</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.90909,24.291492,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SUC2_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.90909,24.291492,0 120.17766627560536,24.49869920720721,0</coordinates>
+      </LineString>
+      <description>Station: SUC2
+East Velocity: -7.4 mm/yr
+North Velocity: 2.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>WIPN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.058559,24.674636,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WIPN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.058559,24.674636,0 120.93958801691949,25.10706843243243,0</coordinates>
+      </LineString>
+      <description>Station: WIPN
+East Velocity: -1.2 mm/yr
+North Velocity: 4.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>CHYN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.290803,23.393273,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CHYN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.290803,23.393273,0 119.81964169632867,23.42030002702703,0</coordinates>
+      </LineString>
+      <description>Station: CHYN
+East Velocity: -4.8 mm/yr
+North Velocity: 0.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>HSIN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.014264,24.827752,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HSIN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.014264,24.827752,0 121.06389635492337,25.00793218018018,0</coordinates>
+      </LineString>
+      <description>Station: HSIN
+East Velocity: 0.5 mm/yr
+North Velocity: 2.0 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>JLUT</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.622784,22.329961,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JLUT_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.622784,22.329961,0 115.39275218167494,22.35698802702703,0</coordinates>
+      </LineString>
+      <description>Station: JLUT
+East Velocity: -53.7 mm/yr
+North Velocity: 0.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>HUYS</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.029412,24.092332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HUYS_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.029412,24.092332,0 118.88790810682096,24.831070738738738,0</coordinates>
+      </LineString>
+      <description>Station: HUYS
+East Velocity: -21.7 mm/yr
+North Velocity: 8.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>YENL</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.601851,23.903507,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>YENL_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.601851,23.903507,0 119.39450724351828,25.65125474774775,0</coordinates>
+      </LineString>
+      <description>Station: YENL
+East Velocity: -22.4 mm/yr
+North Velocity: 19.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>HOKN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.134887,23.188388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HOKN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.134887,23.188388,0 119.82126261591429,23.09829790990991,0</coordinates>
+      </LineString>
+      <description>Station: HOKN
+East Velocity: -3.2 mm/yr
+North Velocity: -1.0 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>MFEN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.172479,24.082164,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MFEN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.172479,24.082164,0 118.19237361703175,25.36144327927928,0</coordinates>
+      </LineString>
+      <description>Station: MFEN
+East Velocity: -30.2 mm/yr
+North Velocity: 14.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>KMNM</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>118.38858,24.463822,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KMNM_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>118.38858,24.463822,0 118.47765826617491,24.3647229009009,0</coordinates>
+      </LineString>
+      <description>Station: KMNM
+East Velocity: 0.9 mm/yr
+North Velocity: -1.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>CWEN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.452764,23.473048,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CWEN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.452764,23.473048,0 119.3429021926371,23.80638133333333,0</coordinates>
+      </LineString>
+      <description>Station: CWEN
+East Velocity: -11.3 mm/yr
+North Velocity: 3.7 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>S105</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.112899,22.951655,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>S105_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.112899,22.951655,0 118.08978828848882,24.01471806306306,0</coordinates>
+      </LineString>
+      <description>Station: S105
+East Velocity: -30.9 mm/yr
+North Velocity: 11.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>JPEI</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.371399,23.531604,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JPEI_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.371399,23.531604,0 118.3940749659311,25.17124363963964,0</coordinates>
+      </LineString>
+      <description>Station: JPEI
+East Velocity: -30.3 mm/yr
+North Velocity: 18.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>C002</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.577194,23.361746,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C002_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.577194,23.361746,0 117.9275419828171,23.857241495495497,0</coordinates>
+      </LineString>
+      <description>Station: C002
+East Velocity: -27.0 mm/yr
+North Velocity: 5.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>FKD2</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.861972,23.688426,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FKD2_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.861972,23.688426,0 118.2254108856039,24.48121879279279,0</coordinates>
+      </LineString>
+      <description>Station: FKD2
+East Velocity: -26.8 mm/yr
+North Velocity: 8.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>CHI0</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.582154,24.271019,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CHI0_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.582154,24.271019,0 120.75015669097408,24.568316297297297,0</coordinates>
+      </LineString>
+      <description>Station: CHI0
+East Velocity: 1.7 mm/yr
+North Velocity: 3.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>DNAN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.447996,23.673806,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DNAN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.447996,23.673806,0 120.0053393833173,23.90804023423423,0</coordinates>
+      </LineString>
+      <description>Station: DNAN
+East Velocity: -4.5 mm/yr
+North Velocity: 2.6 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>CHUA</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.557306,24.066051,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CHUA_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.557306,24.066051,0 120.18237296407952,24.08406901801802,0</coordinates>
+      </LineString>
+      <description>Station: CHUA
+East Velocity: -3.8 mm/yr
+North Velocity: 0.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SNDI</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.640644,22.71727,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SNDI_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.640644,22.71727,0 115.07362950204823,22.843396126126127,0</coordinates>
+      </LineString>
+      <description>Station: SNDI
+East Velocity: -57.0 mm/yr
+North Velocity: 1.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TEN3</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.915674,23.277793,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TEN3_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.915674,23.277793,0 118.10097047803463,23.73725245945946,0</coordinates>
+      </LineString>
+      <description>Station: TEN3
+East Velocity: -28.7 mm/yr
+North Velocity: 5.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>NCKU</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.222586,22.996657,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NCKU_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.222586,22.996657,0 118.6175527583784,22.78044078378378,0</coordinates>
+      </LineString>
+      <description>Station: NCKU
+East Velocity: -16.4 mm/yr
+North Velocity: -2.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>PL01</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.713957,24.933626,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PL01_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.713957,24.933626,0 122.0318764075292,24.798490864864863,0</coordinates>
+      </LineString>
+      <description>Station: PL01
+East Velocity: 3.2 mm/yr
+North Velocity: -1.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>WLIP</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.632564,23.148291,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WLIP_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.632564,23.148291,0 116.83100703268434,23.382525234234233,0</coordinates>
+      </LineString>
+      <description>Station: WLIP
+East Velocity: -38.8 mm/yr
+North Velocity: 2.6 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>J500</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>123.792036,24.426271,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>J500_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>123.792036,24.426271,0 124.31645175523497,19.76861334234234,0</coordinates>
+      </LineString>
+      <description>Station: J500
+East Velocity: 5.3 mm/yr
+North Velocity: -51.7 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>BLOW</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.571252,24.171755,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BLOW_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.571252,24.171755,0 121.05776177928429,23.856439684684684,0</coordinates>
+      </LineString>
+      <description>Station: BLOW
+East Velocity: -5.2 mm/yr
+North Velocity: -3.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>S169</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.50331,22.942298,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>S169_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.50331,22.942298,0 116.15972310254455,22.563919621621622,0</coordinates>
+      </LineString>
+      <description>Station: S169
+East Velocity: -44.4 mm/yr
+North Velocity: -4.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>LIKN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.527906,22.758611,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LIKN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.527906,22.758611,0 115.28160616914444,22.53338577477477,0</coordinates>
+      </LineString>
+      <description>Station: LIKN
+East Velocity: -53.7 mm/yr
+North Velocity: -2.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>S23R</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.606175,22.644988,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>S23R_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.606175,22.644988,0 115.266610359734,22.58192493693694,0</coordinates>
+      </LineString>
+      <description>Station: S23R
+East Velocity: -54.7 mm/yr
+North Velocity: -0.7 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>JONP</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.524012,23.422972,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JONP_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.524012,23.422972,0 119.03166636724767,23.666215243243244,0</coordinates>
+      </LineString>
+      <description>Station: JONP
+East Velocity: -15.2 mm/yr
+North Velocity: 2.7 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>MIN3</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.720909,23.2754,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MIN3_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.720909,23.2754,0 117.54339138307007,23.797922522522523,0</coordinates>
+      </LineString>
+      <description>Station: MIN3
+East Velocity: -32.4 mm/yr
+North Velocity: 5.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>LSAN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.182169,24.02935,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LSAN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.182169,24.02935,0 118.70634540176385,25.05637702702703,0</coordinates>
+      </LineString>
+      <description>Station: LSAN
+East Velocity: -25.1 mm/yr
+North Velocity: 11.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>PNC1</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>122.079437,25.627492,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PNC1_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>122.079437,25.627492,0 122.31924422921098,25.681546054054053,0</coordinates>
+      </LineString>
+      <description>Station: PNC1
+East Velocity: 2.4 mm/yr
+North Velocity: 0.6 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>CHUL</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.125688,23.132369,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CHUL_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.125688,23.132369,0 117.5009224327363,24.06930593693694,0</coordinates>
+      </LineString>
+      <description>Station: CHUL
+East Velocity: -37.0 mm/yr
+North Velocity: 10.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>LSB0</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.634233,24.153374,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LSB0_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.634233,24.153374,0 120.21955058627991,24.180401027027028,0</coordinates>
+      </LineString>
+      <description>Station: LSB0
+East Velocity: -4.2 mm/yr
+North Velocity: 0.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SANI</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.768735,24.414353,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SANI_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.768735,24.414353,0 120.52139243926327,24.549488135135135,0</coordinates>
+      </LineString>
+      <description>Station: SANI
+East Velocity: -2.5 mm/yr
+North Velocity: 1.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>LGU2</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.634964,22.993781,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LGU2_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.634964,22.993781,0 115.51658287748742,22.70549271171171,0</coordinates>
+      </LineString>
+      <description>Station: LGU2
+East Velocity: -52.3 mm/yr
+North Velocity: -3.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>W029</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.664255,23.540799,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W029_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.664255,23.540799,0 118.70871407768162,23.847105306306307,0</coordinates>
+      </LineString>
+      <description>Station: W029
+East Velocity: -19.9 mm/yr
+North Velocity: 3.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TLT1</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.164466,24.953574,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TLT1_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.164466,24.953574,0 121.30357826567386,24.88150192792793,0</coordinates>
+      </LineString>
+      <description>Station: TLT1
+East Velocity: 1.4 mm/yr
+North Velocity: -0.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>LTUN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.771634,24.700028,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LTUN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.771634,24.700028,0 123.28882308238525,23.573901873873872,0</coordinates>
+      </LineString>
+      <description>Station: LTUN
+East Velocity: 15.3 mm/yr
+North Velocity: -12.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SFON</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.010166,24.932898,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SFON_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.010166,24.932898,0 121.03003584560113,25.004970072072073,0</coordinates>
+      </LineString>
+      <description>Station: SFON
+East Velocity: 0.2 mm/yr
+North Velocity: 0.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SCH7</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.651601,24.127791,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SCH7_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.651601,24.127791,0 120.47690258941967,24.325989198198197,0</coordinates>
+      </LineString>
+      <description>Station: SCH7
+East Velocity: -11.9 mm/yr
+North Velocity: 2.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TLT3</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.164451,24.953561,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TLT3_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.164451,24.953561,0 121.27375348291808,24.926533972972972,0</coordinates>
+      </LineString>
+      <description>Station: TLT3
+East Velocity: 1.1 mm/yr
+North Velocity: -0.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>HNSN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.30807,24.337704,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HNSN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.30807,24.337704,0 120.67525675201195,25.22058688288288,0</coordinates>
+      </LineString>
+      <description>Station: HNSN
+East Velocity: -6.4 mm/yr
+North Velocity: 9.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>LIU2</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.368657,22.346153,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LIU2_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.368657,22.346153,0 115.23542264292718,19.92272957657658,0</coordinates>
+      </LineString>
+      <description>Station: LIU2
+East Velocity: -52.7 mm/yr
+North Velocity: -26.9 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>FNGU</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.724454,24.035166,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FNGU_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.724454,24.035166,0 119.78734687625476,24.42255338738739,0</coordinates>
+      </LineString>
+      <description>Station: FNGU
+East Velocity: -9.5 mm/yr
+North Velocity: 4.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>MLO2</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.553818,22.899955,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MLO2_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.553818,22.899955,0 115.45854390193823,22.51256761261261,0</coordinates>
+      </LineString>
+      <description>Station: MLO2
+East Velocity: -52.1 mm/yr
+North Velocity: -4.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>WANS</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.885195,23.607507,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WANS_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.885195,23.607507,0 117.85699060893114,24.436335828828827,0</coordinates>
+      </LineString>
+      <description>Station: WANS
+East Velocity: -30.8 mm/yr
+North Velocity: 9.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>YUL1</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.300211,23.321381,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>YUL1_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.300211,23.321381,0 117.87633149044099,25.04210172072072,0</coordinates>
+      </LineString>
+      <description>Station: YUL1
+East Velocity: -34.9 mm/yr
+North Velocity: 19.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>Z211</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>122.939493,24.447384,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Z211_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>122.939493,24.447384,0 123.40461880839189,18.285221837837838,0</coordinates>
+      </LineString>
+      <description>Station: Z211
+East Velocity: 4.7 mm/yr
+North Velocity: -68.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>CHKU</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.092758,23.055847,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CHKU_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.092758,23.055847,0 119.9752649673193,22.929720873873872,0</coordinates>
+      </LineString>
+      <description>Station: CHKU
+East Velocity: -1.2 mm/yr
+North Velocity: -1.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>S167</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.934102,23.954423,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>S167_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.934102,23.954423,0 118.87375913861713,24.91838696396396,0</coordinates>
+      </LineString>
+      <description>Station: S167
+East Velocity: -20.9 mm/yr
+North Velocity: 10.7 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>KSHI</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.176042,24.776667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSHI_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.176042,24.776667,0 121.14627485421643,25.15504537837838,0</coordinates>
+      </LineString>
+      <description>Station: KSHI
+East Velocity: -0.3 mm/yr
+North Velocity: 4.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TAPU</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.585414,23.250808,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TAPU_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.585414,23.250808,0 117.67322692431526,23.818375567567568,0</coordinates>
+      </LineString>
+      <description>Station: TAPU
+East Velocity: -29.7 mm/yr
+North Velocity: 6.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SANL</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.768559,23.664484,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SANL_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.768559,23.664484,0 118.4669087427927,24.277096612612613,0</coordinates>
+      </LineString>
+      <description>Station: SANL
+East Velocity: -23.4 mm/yr
+North Velocity: 6.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>ZEND</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.21757,22.943275,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ZEND_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.21757,22.943275,0 118.54468999847104,22.39372545045045,0</coordinates>
+      </LineString>
+      <description>Station: ZEND
+East Velocity: -17.1 mm/yr
+North Velocity: -6.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>FCWS</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.249818,24.850689,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FCWS_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.249818,24.850689,0 121.30938786373564,25.12095927027027,0</coordinates>
+      </LineString>
+      <description>Station: FCWS
+East Velocity: 0.6 mm/yr
+North Velocity: 3.0 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>C001</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.612397,23.417946,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C001_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.612397,23.417946,0 118.19724518074494,23.89542347747748,0</coordinates>
+      </LineString>
+      <description>Station: C001
+East Velocity: -24.6 mm/yr
+North Velocity: 5.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>BANC</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.442112,24.997655,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BANC_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.442112,24.997655,0 121.68067564590095,25.141799144144144,0</coordinates>
+      </LineString>
+      <description>Station: BANC
+East Velocity: 2.4 mm/yr
+North Velocity: 1.6 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>JSAN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.680864,23.761236,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JSAN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.680864,23.761236,0 119.79495705524148,24.067542306306308,0</coordinates>
+      </LineString>
+      <description>Station: JSAN
+East Velocity: -9.0 mm/yr
+North Velocity: 3.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>CLO1</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.579602,22.43005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CLO1_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.579602,22.43005,0 115.21910418995745,22.303923873873874,0</coordinates>
+      </LineString>
+      <description>Station: CLO1
+East Velocity: -55.0 mm/yr
+North Velocity: -1.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TAT3</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.887049,23.481404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TAT3_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.887049,23.481404,0 117.31169246006887,24.346268864864868,0</coordinates>
+      </LineString>
+      <description>Station: TAT3
+East Velocity: -36.4 mm/yr
+North Velocity: 9.6 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>MES3</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.826263,23.263638,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MES3_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.826263,23.263638,0 117.32541839952438,23.54291727927928,0</coordinates>
+      </LineString>
+      <description>Station: MES3
+East Velocity: -35.7 mm/yr
+North Velocity: 3.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>DNDA</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.141152,23.753636,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DNDA_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.141152,23.753636,0 117.84380200729241,25.01489726126126,0</coordinates>
+      </LineString>
+      <description>Station: DNDA
+East Velocity: -33.5 mm/yr
+North Velocity: 14.0 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>MIN4</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.71985,23.277032,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MIN4_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.71985,23.277032,0 117.43441344221739,23.736491459459458,0</coordinates>
+      </LineString>
+      <description>Station: MIN4
+East Velocity: -33.5 mm/yr
+North Velocity: 5.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>LUKN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.435137,24.06001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LUKN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.435137,24.06001,0 120.07995400483873,24.005955945945946,0</coordinates>
+      </LineString>
+      <description>Station: LUKN
+East Velocity: -3.6 mm/yr
+North Velocity: -0.6 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>NAAO</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.810219,24.449345,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NAAO_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.810219,24.449345,0 123.02748207781913,22.27817382882883,0</coordinates>
+      </LineString>
+      <description>Station: NAAO
+East Velocity: 12.3 mm/yr
+North Velocity: -24.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>PTUN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.459685,22.649851,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PTUN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.459685,22.649851,0 115.29564528502866,21.893094243243244,0</coordinates>
+      </LineString>
+      <description>Station: PTUN
+East Velocity: -52.9 mm/yr
+North Velocity: -8.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>J751</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>123.795847,24.061499,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>J751_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>123.795847,24.061499,0 124.93047251133737,19.36780530630631,0</coordinates>
+      </LineString>
+      <description>Station: J751
+East Velocity: 11.5 mm/yr
+North Velocity: -52.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>DULI</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.330597,23.025672,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DULI_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.330597,23.025672,0 115.9956502251438,26.95359992792793,0</coordinates>
+      </LineString>
+      <description>Station: DULI
+East Velocity: -54.5 mm/yr
+North Velocity: 43.6 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>PINT</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.640571,23.756067,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PINT_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.640571,23.756067,0 120.01061774554933,23.94525618918919,0</coordinates>
+      </LineString>
+      <description>Station: PINT
+East Velocity: -6.4 mm/yr
+North Velocity: 2.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SLNP</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.635641,24.753118,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SLNP_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.635641,24.753118,0 122.11182503631916,24.37473962162162,0</coordinates>
+      </LineString>
+      <description>Station: SLNP
+East Velocity: 4.8 mm/yr
+North Velocity: -4.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>ANBU</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.529623,25.182663,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ANBU_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.529623,25.182663,0 121.67895087675566,25.164644981981983,0</coordinates>
+      </LineString>
+      <description>Station: ANBU
+East Velocity: 1.5 mm/yr
+North Velocity: -0.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>HUAN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.272628,24.143479,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HUAN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.272628,24.143479,0 119.37708373941435,25.458794315315316,0</coordinates>
+      </LineString>
+      <description>Station: HUAN
+East Velocity: -19.2 mm/yr
+North Velocity: 14.6 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>HUA3</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.613518,23.975388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HUA3_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.613518,23.975388,0 119.39508475520388,25.110523135135132,0</coordinates>
+      </LineString>
+      <description>Station: HUA3
+East Velocity: -22.5 mm/yr
+North Velocity: 12.6 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>J750</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>124.172649,24.338876,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>J750_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>124.172649,24.338876,0 124.92412168485347,20.338876,0</coordinates>
+      </LineString>
+      <description>Station: J750
+East Velocity: 7.6 mm/yr
+North Velocity: -44.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>DONA</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.703515,22.915622,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DONA_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.703515,22.915622,0 115.45115728093919,22.96967605405405,0</coordinates>
+      </LineString>
+      <description>Station: DONA
+East Velocity: -53.7 mm/yr
+North Velocity: 0.6 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>S101</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.613859,25.040452,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>S101_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.613859,25.040452,0 121.9121675326809,24.8422538018018,0</coordinates>
+      </LineString>
+      <description>Station: S101
+East Velocity: 3.0 mm/yr
+North Velocity: -2.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SUA1</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.299887,23.477577,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SUA1_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.299887,23.477577,0 120.08380029201257,23.49559501801802,0</coordinates>
+      </LineString>
+      <description>Station: SUA1
+East Velocity: -2.2 mm/yr
+North Velocity: 0.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>PAO1</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.70287,23.108624,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PAO1_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.70287,23.108624,0 116.3637158380392,23.108624,0</coordinates>
+      </LineString>
+      <description>Station: PAO1
+East Velocity: -44.3 mm/yr
+North Velocity: -0.0 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>GUKN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.588785,23.645864,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GUKN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.588785,23.645864,0 119.6544873497888,23.99721535135135,0</coordinates>
+      </LineString>
+      <description>Station: GUKN
+East Velocity: -9.5 mm/yr
+North Velocity: 3.9 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>PAKU</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.636042,23.915683,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PAKU_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.636042,23.915683,0 120.12357463402942,24.00577309009009,0</coordinates>
+      </LineString>
+      <description>Station: PAKU
+East Velocity: -5.2 mm/yr
+North Velocity: 1.0 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TWTF</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.164504,24.953565,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TWTF_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.164504,24.953565,0 121.27380648646883,24.94455599099099,0</coordinates>
+      </LineString>
+      <description>Station: TWTF
+East Velocity: 1.1 mm/yr
+North Velocity: -0.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SHWA</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.347813,23.021432,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SHWA_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.347813,23.021432,0 118.16495847144874,22.634044612612612,0</coordinates>
+      </LineString>
+      <description>Station: SHWA
+East Velocity: -22.3 mm/yr
+North Velocity: -4.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>YUNL</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.798579,23.883889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>YUNL_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.798579,23.883889,0 118.96597334523605,24.63163674774775,0</coordinates>
+      </LineString>
+      <description>Station: YUNL
+East Velocity: -18.6 mm/yr
+North Velocity: 8.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>S016</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.802871,24.17955,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>S016_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.802871,24.17955,0 119.63757202519857,24.395766216216217,0</coordinates>
+      </LineString>
+      <description>Station: S016
+East Velocity: -11.8 mm/yr
+North Velocity: 2.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>FLON</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.937488,25.020373,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FLON_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.937488,25.020373,0 122.2158637396038,24.6239766036036,0</coordinates>
+      </LineString>
+      <description>Station: FLON
+East Velocity: 2.8 mm/yr
+North Velocity: -4.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>ILAN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.756628,24.764041,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ILAN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.756628,24.764041,0 122.63963019918404,24.31359054954955,0</coordinates>
+      </LineString>
+      <description>Station: ILAN
+East Velocity: 8.9 mm/yr
+North Velocity: -5.0 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TAPO</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.237419,23.127065,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TAPO_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.237419,23.127065,0 116.72133561576636,26.811749684684685,0</coordinates>
+      </LineString>
+      <description>Station: TAPO
+East Velocity: -46.1 mm/yr
+North Velocity: 40.9 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>DOJI</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>119.667375,23.257322,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DOJI_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>119.667375,23.257322,0 119.57912259533548,23.113177855855856,0</coordinates>
+      </LineString>
+      <description>Station: DOJI
+East Velocity: -0.9 mm/yr
+North Velocity: -1.6 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>PUS2</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.525769,23.970193,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PUS2_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.525769,23.970193,0 120.20041190852662,23.979202009009008,0</coordinates>
+      </LineString>
+      <description>Station: PUS2
+East Velocity: -3.3 mm/yr
+North Velocity: 0.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>DAHU</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.87184,24.42288,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DAHU_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.87184,24.42288,0 120.41669893632219,24.549006126126127,0</coordinates>
+      </LineString>
+      <description>Station: DAHU
+East Velocity: -4.6 mm/yr
+North Velocity: 1.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>CHUK</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.604725,23.438707,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CHUK_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.604725,23.438707,0 118.83726324643584,23.70897727027027,0</coordinates>
+      </LineString>
+      <description>Station: CHUK
+East Velocity: -18.0 mm/yr
+North Velocity: 3.0 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>T011</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.339454,23.205424,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>T011_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.339454,23.205424,0 119.38865894444918,23.268487063063063,0</coordinates>
+      </LineString>
+      <description>Station: T011
+East Velocity: -9.7 mm/yr
+North Velocity: 0.7 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>DANL</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.75191,22.20413,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DANL_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.75191,22.20413,0 115.94499480683936,22.85277864864865,0</coordinates>
+      </LineString>
+      <description>Station: DANL
+East Velocity: -49.4 mm/yr
+North Velocity: 7.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TTSH</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.147625,22.747139,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TTSH_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.147625,22.747139,0 116.90795472533549,23.96335521621622,0</coordinates>
+      </LineString>
+      <description>Station: TTSH
+East Velocity: -43.4 mm/yr
+North Velocity: 13.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>HENC</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.746448,22.003934,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HENC_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.746448,22.003934,0 115.7811638186094,22.1030330990991,0</coordinates>
+      </LineString>
+      <description>Station: HENC
+East Velocity: -51.1 mm/yr
+North Velocity: 1.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>T106</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.334101,23.050796,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>T106_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.334101,23.050796,0 118.71863240949091,22.57331852252252,0</coordinates>
+      </LineString>
+      <description>Station: T106
+East Velocity: -16.5 mm/yr
+North Velocity: -5.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SGAN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.349658,22.581272,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SGAN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.349658,22.581272,0 115.80288499880277,20.770461189189188,0</coordinates>
+      </LineString>
+      <description>Station: SGAN
+East Velocity: -46.6 mm/yr
+North Velocity: -20.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TCMS</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.987392,24.797985,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TCMS_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.987392,24.797985,0 120.94769565223669,24.9961831981982,0</coordinates>
+      </LineString>
+      <description>Station: TCMS
+East Velocity: -0.4 mm/yr
+North Velocity: 2.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TUNM</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.493583,23.96521,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TUNM_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.493583,23.96521,0 119.53165700018143,25.21746225225225,0</coordinates>
+      </LineString>
+      <description>Station: TUNM
+East Velocity: -19.9 mm/yr
+North Velocity: 13.9 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>DCHU</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.280573,23.213185,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DCHU_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.280573,23.213185,0 116.51651901300421,26.789761576576577,0</coordinates>
+      </LineString>
+      <description>Station: DCHU
+East Velocity: -48.6 mm/yr
+North Velocity: 39.7 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>BIMO</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.967388,22.532796,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BIMO_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.967388,22.532796,0 117.73894798517415,23.46973293693694,0</coordinates>
+      </LineString>
+      <description>Station: BIMO
+East Velocity: -33.1 mm/yr
+North Velocity: 10.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>NCUT</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.185456,24.967674,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NCUT_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.185456,24.967674,0 121.29477101561015,24.895601927927927,0</coordinates>
+      </LineString>
+      <description>Station: NCUT
+East Velocity: 1.1 mm/yr
+North Velocity: -0.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>PIN9</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.454341,23.319465,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PIN9_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.454341,23.319465,0 116.72572743813504,27.661807342342343,0</coordinates>
+      </LineString>
+      <description>Station: PIN9
+East Velocity: -48.2 mm/yr
+North Velocity: 48.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>HUWE</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.286632,23.729402,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HUWE_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.286632,23.729402,0 120.1980629561492,23.73841100900901,0</coordinates>
+      </LineString>
+      <description>Station: HUWE
+East Velocity: -0.9 mm/yr
+North Velocity: 0.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>CTOU</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.277844,22.754686,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CTOU_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.277844,22.754686,0 116.39940604117287,21.448379693693692,0</coordinates>
+      </LineString>
+      <description>Station: CTOU
+East Velocity: -39.7 mm/yr
+North Velocity: -14.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>J749</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>124.301288,24.536623,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>J749_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>124.301288,24.536623,0 124.77664726795581,20.743830207207207,0</coordinates>
+      </LineString>
+      <description>Station: J749
+East Velocity: 4.8 mm/yr
+North Velocity: -42.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>FUSN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.331471,24.799044,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FUSN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.331471,24.799044,0 121.49025774705143,24.925170126126126,0</coordinates>
+      </LineString>
+      <description>Station: FUSN
+East Velocity: 1.6 mm/yr
+North Velocity: 1.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>LOY1</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.701201,23.468625,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LOY1_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.701201,23.468625,0 118.24583682633116,23.75691328828829,0</coordinates>
+      </LineString>
+      <description>Station: LOY1
+East Velocity: -25.0 mm/yr
+North Velocity: 3.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SLI1</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.441408,23.811859,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SLI1_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.441408,23.811859,0 119.59997325019329,25.100147288288287,0</coordinates>
+      </LineString>
+      <description>Station: SLI1
+East Velocity: -18.7 mm/yr
+North Velocity: 14.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>LONT</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.130561,22.90632,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LONT_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.130561,22.90632,0 117.30648100398685,24.99641009009009,0</coordinates>
+      </LineString>
+      <description>Station: LONT
+East Velocity: -39.1 mm/yr
+North Velocity: 23.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>JUNA</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.875375,24.683952,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JUNA_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.875375,24.683952,0 120.70682018101687,24.80106911711712,0</coordinates>
+      </LineString>
+      <description>Station: JUNA
+East Velocity: -1.7 mm/yr
+North Velocity: 1.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SINL</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.254628,22.908294,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SINL_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.254628,22.908294,0 116.22750336002433,27.070456162162163,0</coordinates>
+      </LineString>
+      <description>Station: SINL
+East Velocity: -51.4 mm/yr
+North Velocity: 46.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>PAO2</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.923085,24.707949,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PAO2_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.923085,24.707949,0 120.84374980646895,24.79803909009009,0</coordinates>
+      </LineString>
+      <description>Station: PAO2
+East Velocity: -0.8 mm/yr
+North Velocity: 1.0 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SANY</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.769183,24.413627,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SANY_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.769183,24.413627,0 120.47237363424735,24.53074411711712,0</coordinates>
+      </LineString>
+      <description>Station: SANY
+East Velocity: -3.0 mm/yr
+North Velocity: 1.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>FUNY</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.320175,23.922318,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FUNY_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.320175,23.922318,0 120.19205157792459,23.877272954954954,0</coordinates>
+      </LineString>
+      <description>Station: FUNY
+East Velocity: -1.3 mm/yr
+North Velocity: -0.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TTC5</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.215131,23.124911,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TTC5_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.215131,23.124911,0 117.87465440788895,24.196983072072072,0</coordinates>
+      </LineString>
+      <description>Station: TTC5
+East Velocity: -34.1 mm/yr
+North Velocity: 11.9 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>WUKU</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.40067,25.11728,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WUKU_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.40067,25.11728,0 121.63946662910246,25.180343063063063,0</coordinates>
+      </LineString>
+      <description>Station: WUKU
+East Velocity: 2.4 mm/yr
+North Velocity: 0.7 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>MIAO</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.810273,24.583453,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MIAO_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.810273,24.583453,0 120.55269053636994,24.65552507207207,0</coordinates>
+      </LineString>
+      <description>Station: MIAO
+East Velocity: -2.6 mm/yr
+North Velocity: 0.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>T118</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.552982,23.46298,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>T118_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.552982,23.46298,0 119.12893168646428,23.715232252252253,0</coordinates>
+      </LineString>
+      <description>Station: T118
+East Velocity: -14.5 mm/yr
+North Velocity: 2.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SHA1</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.199493,23.108862,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SHA1_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.199493,23.108862,0 118.00634003349872,24.7124656036036,0</coordinates>
+      </LineString>
+      <description>Station: SHA1
+East Velocity: -32.6 mm/yr
+North Velocity: 17.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TEGS</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.654993,24.356209,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TEGS_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.654993,24.356209,0 120.48687741325111,24.356209,0</coordinates>
+      </LineString>
+      <description>Station: TEGS
+East Velocity: -1.7 mm/yr
+North Velocity: -0.0 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>PEI1</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.168597,23.293835,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PEI1_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.168597,23.293835,0 119.66836292947498,22.978519684684684,0</coordinates>
+      </LineString>
+      <description>Station: PEI1
+East Velocity: -5.1 mm/yr
+North Velocity: -3.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SON3</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.985851,24.397817,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SON3_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.985851,24.397817,0 120.31316733198537,25.01042961261261,0</coordinates>
+      </LineString>
+      <description>Station: SON3
+East Velocity: -6.8 mm/yr
+North Velocity: 6.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>NDH3</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.565255,23.995491,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NDH3_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.565255,23.995491,0 120.05648488130831,23.139635144144144,0</coordinates>
+      </LineString>
+      <description>Station: NDH3
+East Velocity: -15.3 mm/yr
+North Velocity: -9.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>WALI</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.689378,25.175795,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WALI_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.689378,25.175795,0 122.15724564729844,25.00462382882883,0</coordinates>
+      </LineString>
+      <description>Station: WALI
+East Velocity: 4.7 mm/yr
+North Velocity: -1.9 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>WFEN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.699476,24.041947,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WFEN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.699476,24.041947,0 120.00893956257931,24.177082135135137,0</coordinates>
+      </LineString>
+      <description>Station: WFEN
+East Velocity: -7.0 mm/yr
+North Velocity: 1.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>HSUE</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.026457,24.280597,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HSUE_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.026457,24.280597,0 119.95906531472409,24.53284925225225,0</coordinates>
+      </LineString>
+      <description>Station: HSUE
+East Velocity: -10.8 mm/yr
+North Velocity: 2.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>YLSS</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.653013,24.667923,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>YLSS_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.653013,24.667923,0 123.06076053522642,24.10035543243243,0</coordinates>
+      </LineString>
+      <description>Station: YLSS
+East Velocity: 14.2 mm/yr
+North Velocity: -6.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>S01R</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>119.592375,23.655273,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>S01R_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>119.592375,23.655273,0 119.57270416115321,23.547164891891892,0</coordinates>
+      </LineString>
+      <description>Station: S01R
+East Velocity: -0.2 mm/yr
+North Velocity: -1.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SGUN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.691888,24.271633,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SGUN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.691888,24.271633,0 120.26693796353067,24.316678045045048,0</coordinates>
+      </LineString>
+      <description>Station: SGUN
+East Velocity: -4.3 mm/yr
+North Velocity: 0.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>NDHU</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.550818,23.897244,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NDHU_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.550818,23.897244,0 119.11694524050057,25.27562237837838,0</coordinates>
+      </LineString>
+      <description>Station: NDHU
+East Velocity: -24.7 mm/yr
+North Velocity: 15.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>ZUZH</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.544313,25.162189,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ZUZH_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.544313,25.162189,0 121.73342988077715,24.954981792792793,0</coordinates>
+      </LineString>
+      <description>Station: ZUZH
+East Velocity: 1.9 mm/yr
+North Velocity: -2.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>KIMN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>118.289193,24.407429,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KIMN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>118.289193,24.407429,0 118.38812459812881,24.290311882882882,0</coordinates>
+      </LineString>
+      <description>Station: KIMN
+East Velocity: 1.0 mm/yr
+North Velocity: -1.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>KLN2</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.507962,23.331092,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KLN2_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.507962,23.331092,0 118.0060906893287,23.61938028828829,0</coordinates>
+      </LineString>
+      <description>Station: KLN2
+East Velocity: -25.5 mm/yr
+North Velocity: 3.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>YSAN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.085988,23.14655,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>YSAN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.085988,23.14655,0 119.86064090098647,23.011414864864864,0</coordinates>
+      </LineString>
+      <description>Station: YSAN
+East Velocity: -2.3 mm/yr
+North Velocity: -1.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>QJIN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.263417,22.610494,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QJIN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.263417,22.610494,0 115.69616061825319,19.94382733333333,0</coordinates>
+      </LineString>
+      <description>Station: QJIN
+East Velocity: -46.8 mm/yr
+North Velocity: -29.6 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>DAJN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.864977,22.311305,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DAJN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.864977,22.311305,0 116.62892535488895,23.554548243243243,0</coordinates>
+      </LineString>
+      <description>Station: DAJN
+East Velocity: -43.5 mm/yr
+North Velocity: 13.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TUNS</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.404051,23.317241,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TUNS_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.404051,23.317241,0 119.48188868080541,23.443367126126127,0</coordinates>
+      </LineString>
+      <description>Station: TUNS
+East Velocity: -9.4 mm/yr
+North Velocity: 1.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>ANKN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.524731,24.959101,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ANKN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.524731,24.959101,0 121.81290505834546,25.16630820720721,0</coordinates>
+      </LineString>
+      <description>Station: ANKN
+East Velocity: 2.9 mm/yr
+North Velocity: 2.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>LNCH</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.402611,22.994579,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LNCH_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.402611,22.994579,0 118.10275120490272,22.327912333333334,0</coordinates>
+      </LineString>
+      <description>Station: LNCH
+East Velocity: -23.5 mm/yr
+North Velocity: -7.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>S103</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.475196,23.564375,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>S103_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.475196,23.564375,0 119.78719389094726,23.843654279279278,0</coordinates>
+      </LineString>
+      <description>Station: S103
+East Velocity: -7.0 mm/yr
+North Velocity: 3.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>NGAO</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.284461,24.049453,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NGAO_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.284461,24.049453,0 119.26205750856091,25.526930477477478,0</coordinates>
+      </LineString>
+      <description>Station: NGAO
+East Velocity: -20.5 mm/yr
+North Velocity: 16.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>CHE8</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.373579,23.097413,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CHE8_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.373579,23.097413,0 116.1533168671516,27.034349936936938,0</coordinates>
+      </LineString>
+      <description>Station: CHE8
+East Velocity: -53.3 mm/yr
+North Velocity: 43.7 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>WDAN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.504316,22.606063,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WDAN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.504316,22.606063,0 115.40047377325767,22.38984678378378,0</coordinates>
+      </LineString>
+      <description>Station: WDAN
+East Velocity: -52.3 mm/yr
+North Velocity: -2.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>NANK</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.274399,23.101992,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NANK_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.274399,23.101992,0 119.03050427113209,22.948838846846847,0</coordinates>
+      </LineString>
+      <description>Station: NANK
+East Velocity: -12.7 mm/yr
+North Velocity: -1.7 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>CHI7</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.433206,23.495977,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CHI7_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.433206,23.495977,0 119.63750299884012,23.65813916216216,0</coordinates>
+      </LineString>
+      <description>Station: CHI7
+East Velocity: -8.1 mm/yr
+North Velocity: 1.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>CLA7</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.51201,24.602251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CLA7_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.51201,24.602251,0 121.95789275136325,25.06171045945946,0</coordinates>
+      </LineString>
+      <description>Station: CLA7
+East Velocity: 4.5 mm/yr
+North Velocity: 5.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>LANB</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.558151,22.037215,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LANB_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.558151,22.037215,0 114.8908608908211,26.37955734234234,0</coordinates>
+      </LineString>
+      <description>Station: LANB
+East Velocity: -68.6 mm/yr
+North Velocity: 48.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>S104</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.189384,22.820766,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>S104_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.189384,22.820766,0 116.03843345108675,26.60454978378378,0</coordinates>
+      </LineString>
+      <description>Station: S104
+East Velocity: -52.7 mm/yr
+North Velocity: 42.0 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SANZ</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.500878,25.260797,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SANZ_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.500878,25.260797,0 121.5805707075167,25.17070690990991,0</coordinates>
+      </LineString>
+      <description>Station: SANZ
+East Velocity: 0.8 mm/yr
+North Velocity: -1.0 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>NSHE</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.80091,24.225796,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NSHE_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.80091,24.225796,0 119.74385717135368,24.622192396396397,0</coordinates>
+      </LineString>
+      <description>Station: NSHE
+East Velocity: -10.7 mm/yr
+North Velocity: 4.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>KASU</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.632979,22.810191,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KASU_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.632979,22.810191,0 115.07194806147257,22.73811892792793,0</coordinates>
+      </LineString>
+      <description>Station: KASU
+East Velocity: -56.9 mm/yr
+North Velocity: -0.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>KUA2</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.163388,23.049577,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KUA2_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.163388,23.049577,0 117.75624872661113,24.076604027027027,0</coordinates>
+      </LineString>
+      <description>Station: KUA2
+East Velocity: -34.8 mm/yr
+North Velocity: 11.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>HUAP</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.749452,24.308999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HUAP_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.749452,24.308999,0 122.35246555634627,23.272962963963963,0</coordinates>
+      </LineString>
+      <description>Station: HUAP
+East Velocity: 6.1 mm/yr
+North Velocity: -11.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>NJOU</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.571408,22.503897,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NJOU_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.571408,22.503897,0 115.12028828755507,22.332725828828828,0</coordinates>
+      </LineString>
+      <description>Station: NJOU
+East Velocity: -55.9 mm/yr
+North Velocity: -1.9 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>J748</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>124.69244,24.641614,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>J748_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>124.69244,24.641614,0 125.09881665971015,21.164136522522522,0</coordinates>
+      </LineString>
+      <description>Station: J748
+East Velocity: 4.1 mm/yr
+North Velocity: -38.6 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>MOTN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.026853,23.200548,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOTN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.026853,23.200548,0 117.6746875680044,23.78613358558559,0</coordinates>
+      </LineString>
+      <description>Station: MOTN
+East Velocity: -34.2 mm/yr
+North Velocity: 6.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>MAT3</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>119.923073,26.169397,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MAT3_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>119.923073,26.169397,0 119.96322483791839,26.06128889189189,0</coordinates>
+      </LineString>
+      <description>Station: MAT3
+East Velocity: 0.4 mm/yr
+North Velocity: -1.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>CKSV</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.22001,22.998851,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CKSV_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.22001,22.998851,0 118.76175487924642,22.78263478378378,0</coordinates>
+      </LineString>
+      <description>Station: CKSV
+East Velocity: -14.9 mm/yr
+North Velocity: -2.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>ERLN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.419559,23.797592,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ERLN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.419559,23.797592,0 121.01032877985924,23.959754162162163,0</coordinates>
+      </LineString>
+      <description>Station: ERLN
+East Velocity: 6.0 mm/yr
+North Velocity: 1.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TAPE</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.230878,23.125575,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TAPE_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.230878,23.125575,0 117.48874200693844,24.936385810810812,0</coordinates>
+      </LineString>
+      <description>Station: TAPE
+East Velocity: -38.2 mm/yr
+North Velocity: 20.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>PLA2</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.086376,24.578825,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PLA2_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.086376,24.578825,0 120.94768287501887,25.074320495495495,0</coordinates>
+      </LineString>
+      <description>Station: PLA2
+East Velocity: -1.4 mm/yr
+North Velocity: 5.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>ICHU</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.279313,23.36066,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ICHU_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.279313,23.36066,0 119.66106592427546,23.35165099099099,0</coordinates>
+      </LineString>
+      <description>Station: ICHU
+East Velocity: -6.3 mm/yr
+North Velocity: -0.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>KHLZ</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.252948,22.855901,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KHLZ_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.252948,22.855901,0 117.66214256750965,22.30635145045045,0</coordinates>
+      </LineString>
+      <description>Station: KHLZ
+East Velocity: -26.5 mm/yr
+North Velocity: -6.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>KULN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.507028,23.330988,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KULN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.507028,23.330988,0 118.26025120939617,23.70035736936937,0</coordinates>
+      </LineString>
+      <description>Station: KULN
+East Velocity: -22.9 mm/yr
+North Velocity: 4.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>KYIN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.080424,25.04105,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KYIN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.080424,25.04105,0 121.080424,25.167176126126126,0</coordinates>
+      </LineString>
+      <description>Station: KYIN
+East Velocity: 0.0 mm/yr
+North Velocity: 1.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>PAN9</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>119.563747,23.565204,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PAN9_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>119.563747,23.565204,0 119.66203363583138,23.48412291891892,0</coordinates>
+      </LineString>
+      <description>Station: PAN9
+East Velocity: 1.0 mm/yr
+North Velocity: -0.9 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>THAI</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.295603,24.607121,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>THAI_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.295603,24.607121,0 121.21633186987778,24.94045433333333,0</coordinates>
+      </LineString>
+      <description>Station: THAI
+East Velocity: -0.8 mm/yr
+North Velocity: 3.7 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>JYAN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.226351,24.242474,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JYAN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.226351,24.242474,0 120.22844141646887,25.323555081081082,0</coordinates>
+      </LineString>
+      <description>Station: JYAN
+East Velocity: -10.1 mm/yr
+North Velocity: 12.0 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>HOPN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.894883,24.17078,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HOPN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.894883,24.17078,0 118.90018622325368,24.28789711711712,0</coordinates>
+      </LineString>
+      <description>Station: HOPN
+East Velocity: -20.2 mm/yr
+North Velocity: 1.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>CHTS</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.232754,23.754655,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CHTS_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.232754,23.754655,0 118.80155452849367,25.412312657657658,0</coordinates>
+      </LineString>
+      <description>Station: CHTS
+East Velocity: -24.7 mm/yr
+North Velocity: 18.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>JPIN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.358892,23.341085,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JPIN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.358892,23.341085,0 117.18879272156022,27.341085,0</coordinates>
+      </LineString>
+      <description>Station: JPIN
+East Velocity: -42.5 mm/yr
+North Velocity: 44.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>YAME</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.185304,24.908454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>YAME_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.185304,24.908454,0 121.29456649049378,24.96250805405405,0</coordinates>
+      </LineString>
+      <description>Station: YAME
+East Velocity: 1.1 mm/yr
+North Velocity: 0.6 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>ERPN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.166116,22.942178,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ERPN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.166116,22.942178,0 115.8735970173617,26.798033855855856,0</coordinates>
+      </LineString>
+      <description>Station: ERPN
+East Velocity: -54.1 mm/yr
+North Velocity: 42.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TNML</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.987348,24.797954,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TNML_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.987348,24.797954,0 120.94765166215988,24.98714318918919,0</coordinates>
+      </LineString>
+      <description>Station: TNML
+East Velocity: -0.4 mm/yr
+North Velocity: 2.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SA04</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.187521,24.967821,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SA04_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.187521,24.967821,0 121.187521,25.08493811711712,0</coordinates>
+      </LineString>
+      <description>Station: SA04
+East Velocity: -0.0 mm/yr
+North Velocity: 1.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SJPU</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.481265,23.428544,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SJPU_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.481265,23.428544,0 119.22449993472381,23.635751207207207,0</coordinates>
+      </LineString>
+      <description>Station: SJPU
+East Velocity: -12.8 mm/yr
+North Velocity: 2.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TUNH</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.300221,23.075165,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TUNH_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.300221,23.075165,0 116.71733479748666,26.822912747747747,0</coordinates>
+      </LineString>
+      <description>Station: TUNH
+East Velocity: -46.8 mm/yr
+North Velocity: 41.6 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SHUL</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.562737,23.78762,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SHUL_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.562737,23.78762,0 118.93401320465618,26.32816054054054,0</coordinates>
+      </LineString>
+      <description>Station: SHUL
+East Velocity: -26.7 mm/yr
+North Velocity: 28.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>LANY</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.558099,22.037317,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LANY_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.558099,22.037317,0 114.94911861908145,26.091371054054058,0</coordinates>
+      </LineString>
+      <description>Station: LANY
+East Velocity: -68.0 mm/yr
+North Velocity: 45.0 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TSHI</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.632769,25.256913,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TSHI_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.632769,25.256913,0 121.85191693633524,25.256913,0</coordinates>
+      </LineString>
+      <description>Station: TSHI
+East Velocity: 2.2 mm/yr
+North Velocity: 0.0 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>GUK2</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.00695,24.202969,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GUK2_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.00695,24.202969,0 119.7130330631037,24.788554585585587,0</coordinates>
+      </LineString>
+      <description>Station: GUK2
+East Velocity: -13.1 mm/yr
+North Velocity: 6.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TSIO</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.704108,24.472796,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TSIO_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.704108,24.472796,0 120.53583705987971,24.517841045045046,0</coordinates>
+      </LineString>
+      <description>Station: TSIO
+East Velocity: -1.7 mm/yr
+North Velocity: 0.5 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>DPIN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.932807,24.043081,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DPIN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.932807,24.043081,0 119.0387474765337,24.88091883783784,0</coordinates>
+      </LineString>
+      <description>Station: DPIN
+East Velocity: -19.2 mm/yr
+North Velocity: 9.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>NSAN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.38281,24.428202,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NSAN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.38281,24.428202,0 121.22449338634848,24.78856236036036,0</coordinates>
+      </LineString>
+      <description>Station: NSAN
+East Velocity: -1.6 mm/yr
+North Velocity: 4.0 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>KZN1</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.697985,23.946256,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KZN1_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.697985,23.946256,0 119.94881684941102,24.099409153153154,0</coordinates>
+      </LineString>
+      <description>Station: KZN1
+East Velocity: -7.6 mm/yr
+North Velocity: 1.7 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>YUSN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.959143,23.487304,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>YUSN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.959143,23.487304,0 117.58990628961946,24.13595264864865,0</coordinates>
+      </LineString>
+      <description>Station: YUSN
+East Velocity: -34.3 mm/yr
+North Velocity: 7.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>PTDG</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.465249,22.473858,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PTDG_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.465249,22.473858,0 116.07800120478223,20.91529944144144,0</coordinates>
+      </LineString>
+      <description>Station: PTDG
+East Velocity: -45.0 mm/yr
+North Velocity: -17.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TTUN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.080707,22.764551,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TTUN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.080707,22.764551,0 117.24106916054386,23.84563208108108,0</coordinates>
+      </LineString>
+      <description>Station: TTUN
+East Velocity: -39.3 mm/yr
+North Velocity: 12.0 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>FUDN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.329294,23.250739,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FUDN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.329294,23.250739,0 116.98552899323674,27.097585846846847,0</coordinates>
+      </LineString>
+      <description>Station: FUDN
+East Velocity: -44.3 mm/yr
+North Velocity: 42.7 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>LIUC</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.369073,22.346677,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LIUC_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.369073,22.346677,0 115.28452194079199,19.96829862162162,0</coordinates>
+      </LineString>
+      <description>Station: LIUC
+East Velocity: -52.2 mm/yr
+North Velocity: -26.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>DANI</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.361395,23.119454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DANI_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.361395,23.119454,0 119.02917699052618,22.93927381981982,0</coordinates>
+      </LineString>
+      <description>Station: DANI
+East Velocity: -13.6 mm/yr
+North Velocity: -2.0 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>WUFN</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.699392,24.042784,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WUFN_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.699392,24.042784,0 120.0877700266254,24.2409821981982,0</coordinates>
+      </LineString>
+      <description>Station: WUFN
+East Velocity: -6.2 mm/yr
+North Velocity: 2.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>NCK1</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.275813,22.938453,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NCK1_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.275813,22.938453,0 118.02582063226228,22.72223678378378,0</coordinates>
+      </LineString>
+      <description>Station: NCK1
+East Velocity: -23.0 mm/yr
+North Velocity: -2.4 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>SUN2</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.908351,23.881243,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SUN2_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.908351,23.881243,0 118.71123968493598,24.70106281981982,0</coordinates>
+      </LineString>
+      <description>Station: SUN2
+East Velocity: -22.3 mm/yr
+North Velocity: 9.1 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>ALIS</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.813297,23.508171,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALIS_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.813297,23.508171,0 118.1214105694498,23.850513342342342,0</coordinates>
+      </LineString>
+      <description>Station: ALIS
+East Velocity: -27.4 mm/yr
+North Velocity: 3.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>LAI9</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.73989,23.529396,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LAI9_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.73989,23.529396,0 118.1851333697988,23.88074735135135,0</coordinates>
+      </LineString>
+      <description>Station: LAI9
+East Velocity: -26.0 mm/yr
+North Velocity: 3.9 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>TAN2</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.431362,25.1785,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TAN2_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.431362,25.1785,0 121.65036873779697,25.19651801801802,0</coordinates>
+      </LineString>
+      <description>Station: TAN2
+East Velocity: 2.2 mm/yr
+North Velocity: 0.2 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>NDH1</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>121.595593,23.962358,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NDH1_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>121.595593,23.962358,0 120.15622185068351,24.03443007207207,0</coordinates>
+      </LineString>
+      <description>Station: NDH1
+East Velocity: -14.6 mm/yr
+North Velocity: 0.8 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>GAIS</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.59062,23.080292,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GAIS_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.59062,23.080292,0 116.418859404493,23.3775892972973,0</coordinates>
+      </LineString>
+      <description>Station: GAIS
+East Velocity: -42.6 mm/yr
+North Velocity: 3.3 mm/yr</description>
+    </Placemark>
+    <Placemark>
+      <name>FUQE</name>
+      <styleUrl>#station_point</styleUrl>
+      <Point>
+        <coordinates>120.823315,24.011156,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FUQE_velocity</name>
+      <styleUrl>#velocity_vector</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>120.823315,24.011156,0 119.33408606822093,24.65980464864865,0</coordinates>
+      </LineString>
+      <description>Station: FUQE
+East Velocity: -15.1 mm/yr
+North Velocity: 7.2 mm/yr</description>
+    </Placemark>
+  </Document>
+</kml>
