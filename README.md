@@ -1,7 +1,10 @@
 # Regional Geodetic Reference Frames for Long-Term Geohazards Assessment and Structural Health Monitoring in China
 Guoquan Wang, Yan Bao
+
 bob.g.wang@gmail.com
 
+
+Accurate monitoring of ground deformation for geohazard and infrastructure applications requires reference frames that are stable relative to the region of interest. Such stability is essential to isolate local millimeter-per-year deformation from the regional tectonic signal. This study establishes a multi-scale geodetic reference framework for China by dividing the region into 10 zones, including 8 coherent kinematic zones (CKZs)—Northeast China (NEC), North China (NCH), South China (SCH), South China Sea (SCS), Tarim (TRM), Tianshan (TSN), Junggar (JGR), and Alashan (ALS)—and 2 non-coherent zones encompassing Southwest China and Taiwan Island. For each CKZ, we established a stable regional reference frame using the one‑set 7‑parameter Helmert transformation (one alignment epoch and six transformation rates). This approach removes the common rigid‑plate motion present in the International GNSS Service Reference Frame 2020 (IGS20). We further present a precise method for modeling IGS20 velocities at arbitrary sites within a CKZ using the one-set 7 parameters, overcoming the instability of the rotation-only Euler vector approach. To support engineering applications across zone boundaries and within non-coherent zones, we established the China Nationwide Reference Frame (CHN20). This multi-scale framework provides critical geodetic infrastructure for geohazard assessment, structural health monitoring, and tectonic studies across China’s land and marine territories. The primary outputs of this study are nine sets of 7-parameters that define eight stable regional reference frames and one nationwide reference frame. These parameters enable high-precision transformation of site positions, displacements, and velocities between the IGS20 and the respective regional frames.
 
 
 ![Fig1](https://github.com/user-attachments/assets/ea257d14-3163-46ca-8bdc-c6d15d7ce772)
