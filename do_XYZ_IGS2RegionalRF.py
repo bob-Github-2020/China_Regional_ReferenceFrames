@@ -4,7 +4,7 @@
 ## 8-16-2025
 
 """
-transform_xyz_gom25.py
+IGS20 to GOM25
 
 One-set 7-parameter (no scale) transformation between IGS20 and GOM25
 for ECEF XYZ coordinate time series (with optional covariance).
