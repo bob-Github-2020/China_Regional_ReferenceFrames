@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 # Bob Wang, bob.g.wang@gmail.com
+# 11-10-2025
+# Estimate site LLH (Longitute-Latitude-Height) from its XYZ file
 
 import numpy as np
 import math
