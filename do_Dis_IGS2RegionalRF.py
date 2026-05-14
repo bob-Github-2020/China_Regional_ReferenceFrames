@@ -1,13 +1,12 @@
 #!/usr/bin/python3
 ## Bob Wang, bob.g.wang@gmail.com
 
-## 10-10-2025, China20RF--CHN20
+## 10-10-2025, IGS20 to China RFs, NEU displacement time series
 ## Read in 7 columns or 4 columns NEU files
-
-## Transform NEU time series (TENU) from the IGS references (global) to local reference frame
+## Transform NEU disp. time series (TENU) from the IGS references (global) to local reference frame
 
 ## The input includes the (1) Long, Lat. of the station; (2) 7 parameters, (3) and the IGS20 ENU time series
-## I did comparisons with the TXAG ENU time series from IGS14 to GOM20, it works perfectly.
+
 
 import math
 import numpy as np
