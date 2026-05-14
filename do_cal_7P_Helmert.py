@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 ## 10-8-2025
 ## Calculate the 7 parameters for Wang's one-set 7-parameter ECEF-XYZ transformation from IGS to regional
+# The input file: igs20.arp
 
 import numpy as np
 
