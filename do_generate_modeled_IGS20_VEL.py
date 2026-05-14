@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 ## 11-12-2025
-# Final 10 RF reference frame: foreach f (XJYC XJHT XJYT XJQM XJRQ XJKE XJKC WUSH XJBC XJTZ)
+# Program for modeling the IGS20 velocity vectors according to the one-set 7-parameters, 
+# Sample program, for TRM20
 
 import numpy as np
 
