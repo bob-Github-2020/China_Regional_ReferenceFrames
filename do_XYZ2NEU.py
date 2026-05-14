@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 ## Bob Wang (bob.g.wang@gmail.com)
 ## 10-10-2025
-## I compared with the UNV ENU results by BJFS. The two agree very well.
+## Convert XYZ time series to ENU displacement time series.
 
 ## output NEU
 # -*- coding: utf-8 -*-
