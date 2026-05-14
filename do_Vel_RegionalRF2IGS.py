@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 ## 2-4-2025
 ## This program works to convert GOM20 ENU velocities to IGS14 velocities
-## I tested with TXLI, it works fine.
-   ## Reverse the transformation: v_igs14 = v_local - T + ω×X - SX
+   # Reverse the transformation: v_igs14 = v_local - T + ω×X - SX
    # v_ecef_igs14 = v_ecef_local - trans_vec + cross_rot - scale_contrib
  
 
