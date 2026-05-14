@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 ## 2-4-2025
-## This program works to convert GOM20 ENU velocities to IGS14 velocities
+## This program works to convert regional (e.g., HOU20) ENU velocities to IGS velocities
    # Reverse the transformation: v_igs14 = v_local - T + ω×X - SX
    # v_ecef_igs14 = v_ecef_local - trans_vec + cross_rot - scale_contrib
  
