@@ -1,8 +1,6 @@
 #!/usr/bin/python3
 ## 10-8-2025
-## CHina20 RF
-## Tested with 199 TW stations
-## The Python results are almost identical to the Fortran results now.
+## Calculate the 7 parameters for Wang's one-set 7-parameter ECEF-XYZ transformation from IGS to regional
 
 import numpy as np
 
